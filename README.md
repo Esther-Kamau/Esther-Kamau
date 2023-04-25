@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Realest-IT](https://www.nyamburaproject.top)
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **ReactJS | TailwindCSS | Design**
 
